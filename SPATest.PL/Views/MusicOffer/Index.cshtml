@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Музыка|Просмотр предложения</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="card mb-3 card-comp" style="max-width: 1200px;">
+        <div class="row no-gutters">
+            <div class="col-md-6">
+                <img src="https://mixdownmag.com.au/wp-content/uploads/2017/12/mixdown-magazine-gear-rundown-pink-floyd-dsom.jpg" class="card-img">
+            </div>
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h5 class="card-title">@ViewBag.Offer.Title</h5>
+                    <p class="card-text"><b>Автор</b> <br />@ViewBag.Offer.Artist</p>
+                    <p class="card-text"><b>Год</b> <br />@ViewBag.Offer.Year </p>
+                    <p class="card-text"><b>Тип медиа</b> <br />@ViewBag.Offer.Media </p>
+                    <p class="card-text"><b>Цена</b> <br />@ViewBag.Offer.Price @ViewBag.Offer.Currency </p>
+                    <p class="card-text"><b>В наличии</b> <br />@ViewBag.Offer.IsAvailable</p>
+                    <p class="card-text"><b>Доставка</b> <br />@ViewBag.Offer.Delivery </p>
+                    <p class="card-text"><b>Описание</b> <br />@ViewBag.Offer.Description</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+<style>
+    .card-comp {
+        margin: 50px;
+        background-color: azure;
+        padding: 30px;
+    }
+
+    body {
+        background-color: beige;
+    }
+</style>

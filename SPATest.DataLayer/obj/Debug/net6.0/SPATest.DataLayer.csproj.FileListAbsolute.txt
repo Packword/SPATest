@@ -1,0 +1,12 @@
+C:\Users\maksi\source\repos\SPATest.DataLayer\bin\Debug\net6.0\SPATest.DataLayer.deps.json
+C:\Users\maksi\source\repos\SPATest.DataLayer\bin\Debug\net6.0\SPATest.DataLayer.dll
+C:\Users\maksi\source\repos\SPATest.DataLayer\bin\Debug\net6.0\SPATest.DataLayer.pdb
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.csproj.AssemblyReference.cache
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.AssemblyInfoInputs.cache
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.AssemblyInfo.cs
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.dll
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\refint\SPATest.DataLayer.dll
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\SPATest.DataLayer.pdb
+C:\Users\maksi\source\repos\SPATest.DataLayer\obj\Debug\net6.0\ref\SPATest.DataLayer.dll
